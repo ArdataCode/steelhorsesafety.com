@@ -1,0 +1,146 @@
+/** ------------------------------------------------------------------------------------------------
+* SOCIAL ICONS 
+* ------------------------------------------------------------------------------------------------ */
+
+.widget_text .social-icons {
+    padding-left: 0px;
+    margin-bottom: 0px;
+
+    li {
+        margin:5px 5px 0 5px;
+        
+        &:before {
+            content: none;
+        }
+    }
+}
+
+.social-icons {
+    display: block;
+
+    a {
+        color: rgba(0, 0, 0, 0.6);
+
+        &:hover {
+            color: rgba(0, 0, 0, 0.8);
+        }
+    }
+
+    li {
+        display: inline-block;
+        margin:5px 5px 0 5px;
+        padding: 0;
+
+        a {
+           font-size: 0px;  
+        }
+
+        i {
+            font-size:18px;
+        }
+
+        &:first-child {
+            margin-left: 0px;
+            padding-left: 0px;
+        }
+
+        &:last-child {
+            margin-right: 0px;
+            padding-right: 0px;
+        }   
+    }
+
+    //****  TITLE STYLE  ****//
+
+    &.icons-design-circle,
+    &.icons-design-colored,
+    &.icons-design-colored-alt {
+        @include social-icons;
+    }
+
+    &.icons-design-colored {
+        @include social-icons-active-color;
+    }
+
+    &.icons-design-colored-alt {
+        @include social-icons-hover-color;
+    }
+
+    //****  TITLE SIZE  ****//
+
+    &.icons-size-small {
+
+        li {
+
+            i {
+                font-size:14px;
+            }
+        }
+
+        &.icons-design-circle,
+        &.icons-design-colored,
+        &.icons-design-colored-alt {
+
+            li {
+                width:30px;
+                height:30px;
+
+                i {
+                    line-height:30px;
+                }
+            }
+        }
+    }
+
+    &.icons-size-large {
+
+        li {
+
+            i {
+                font-size:22px;
+            }
+        }
+
+        &.icons-design-circle,
+        &.icons-design-colored,
+        &.icons-design-colored-alt {
+            
+            li {
+                width:60px;
+                height:60px;
+
+                i {
+                    line-height:60px;
+                }
+            }
+        }
+    }
+
+    .color-scheme-light & {
+
+        &.icons-design-colored {
+
+            li {
+
+                a {
+                    color:white;
+                }
+            }
+        }
+
+        &.icons-design-circle,
+        &.icons-design-colored-alt {
+
+            li {
+
+                a {
+                    color:#8f8f8f;
+
+                    &:hover {
+                        color:#ffffff;
+                    }
+                }
+            }
+        }
+    }
+}

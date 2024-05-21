@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//steelhorsesafety.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://steelhorsesafety.com/post-sitemap.xml</loc>
+		<lastmod>2024-05-16T08:32:09+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://steelhorsesafety.com/page-sitemap.xml</loc>
+		<lastmod>2024-04-24T03:53:30+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

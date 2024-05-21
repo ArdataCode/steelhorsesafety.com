@@ -1,0 +1,1293 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Gnome - Lawn & Garden Care Services Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Services",
+            "screenshot": "screenshots\/single-services.jpg",
+            "source": "templates\/single-services.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/single-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/gnome.welearn2fly.com\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.7",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Template Kit Import",
+            "version": "1.0.11",
+            "file": "template-kit-import\/template-kit-import.php",
+            "author": "Envato"
+        }
+    ],
+    "images": [
+        {
+            "filename": "lawn-02.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 84125,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/gardener-pruning-trees-with-yellow-secateur-in-the-C58TBQ9"
+        },
+        {
+            "filename": "lawn-01.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-01-800x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 151543,
+            "dimensions": [
+                960,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/gardener-trimming-plants-UV5J9CN"
+        },
+        {
+            "filename": "lawn-03.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 66604,
+            "dimensions": [
+                700,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thuja-green-wall-shaping-WYU6HNQ"
+        },
+        {
+            "filename": "lawn-04.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 73714,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/guy-and-girl-gardeners-cut-the-rose-bush-in-the-wo-NC47JGT"
+        },
+        {
+            "filename": "lawn-05.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 63069,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/topiary-gardener-plant-shaper-P43A85X"
+        },
+        {
+            "filename": "lawn-06.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 57566,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/caucasian-gardener-and-the-garden-maintenance-job-EKN65NC"
+        },
+        {
+            "filename": "lawn-07.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 72763,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-wearing-ear-and-face-protection-cutting-hedge-LEF9922"
+        },
+        {
+            "filename": "partner-04-1.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-04-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 11827,
+            "dimensions": [
+                340,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-04-1.jpg"
+        },
+        {
+            "filename": "partner-03-1.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-03-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 11827,
+            "dimensions": [
+                340,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-03-1.jpg"
+        },
+        {
+            "filename": "partner-02-1.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-02-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 11827,
+            "dimensions": [
+                340,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-02-1.jpg"
+        },
+        {
+            "filename": "partner-01-1.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-01-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 11827,
+            "dimensions": [
+                340,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/partner-01-1.jpg"
+        },
+        {
+            "filename": "lawn-09.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-09-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 114679,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-wearing-ear-and-face-protection-cutting-hedge-LEF9922"
+        },
+        {
+            "filename": "lawn-08.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 66656,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-guy-gardener-in-garden-gloves-puts-the-pots--V24A6CF"
+        },
+        {
+            "filename": "gnome.png",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/gnome.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3592,
+            "dimensions": [
+                169,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/gnome.png"
+        },
+        {
+            "filename": "lawn-02-1.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-02-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 84125,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/gardener-pruning-trees-with-yellow-secateur-in-the-C58TBQ9"
+        },
+        {
+            "filename": "lawn-10.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 142460,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/garden-plants-spring-shaping-4H2JNCU"
+        },
+        {
+            "filename": "lawn-11.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-11-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 99420,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thuja-green-wall-shaping-WYU6HNQ"
+        },
+        {
+            "filename": "lawn-12.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 56429,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-39-s-hands-planting-yellow-flowers-in-the-ga-M6EU987"
+        },
+        {
+            "filename": "lawn-23.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-23.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 32153,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lawn-mower-in-the-garden-DM6LA3E"
+        },
+        {
+            "filename": "lawn-14.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 34101,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/summer-garden-maintenance-7H8AB2Z"
+        },
+        {
+            "filename": "lawn-15.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 47711,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-wearing-ear-and-face-protection-cutting-hedge-LEF9922"
+        },
+        {
+            "filename": "lawn-16.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 32629,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/power-washing-garden-paths-GHWY5NR"
+        },
+        {
+            "filename": "lawn-17.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 42546,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-39-s-hands-planting-yellow-flowers-in-the-ga-M6EU987"
+        },
+        {
+            "filename": "lawn-18.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 30876,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/garden-plants-insecticide-DZVGXUE"
+        },
+        {
+            "filename": "lawn-19.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-19-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 104906,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/garden-plants-insecticide-DZVGXUE"
+        },
+        {
+            "filename": "lawn-26.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-26.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 66656,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-guy-gardener-in-garden-gloves-puts-the-pots--V24A6CF"
+        },
+        {
+            "filename": "lawn-27.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 73714,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/guy-and-girl-gardeners-cut-the-rose-bush-in-the-wo-NC47JGT"
+        },
+        {
+            "filename": "lawn-28.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 58112,
+            "dimensions": [
+                460,
+                552
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/garden-care-and-maintenance-SKTXN54"
+        },
+        {
+            "filename": "lawn-20.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-20.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 32629,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/power-washing-garden-paths-GHWY5NR"
+        },
+        {
+            "filename": "lawn-21.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-21.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 47711,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-wearing-ear-and-face-protection-cutting-hedge-LEF9922"
+        },
+        {
+            "filename": "lawn-22.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-22.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 34101,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/summer-garden-maintenance-7H8AB2Z"
+        },
+        {
+            "filename": "lawn-23-1.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-23-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 32153,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/lawn-mower-in-the-garden-DM6LA3E"
+        },
+        {
+            "filename": "lawn-24.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-24.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 65456,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/worker-gardener-working-with-lawnmower-and-cutting-PCULKAC"
+        },
+        {
+            "filename": "lawn-25.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 42546,
+            "dimensions": [
+                460,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-39-s-hands-planting-yellow-flowers-in-the-ga-M6EU987"
+        },
+        {
+            "filename": "lawn-29.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-29-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 124396,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/gardener-finishing-garden-FM7Q7BJ"
+        },
+        {
+            "filename": "lawn-30.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-30-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 85561,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/garden-care-and-maintenance-SKTXN54"
+        },
+        {
+            "filename": "lawn-31.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-31.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 33498,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-wearing-ear-and-face-protection-cutting-hedge-LEF9922"
+        },
+        {
+            "filename": "lawn-32.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-32.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 22094,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thuja-green-wall-shaping-WYU6HNQ"
+        },
+        {
+            "filename": "lawn-33.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-33.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 21748,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/trimming-garden-plants-P653GRP"
+        },
+        {
+            "filename": "lawn-34.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-34.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 39845,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-guy-gardener-in-garden-gloves-puts-the-pots--V24A6CF"
+        },
+        {
+            "filename": "lawn-35.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 61842,
+            "dimensions": [
+                570,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/seasonal-garden-plants-trimming-by-caucasian-garde-NP4FLQA"
+        },
+        {
+            "filename": "lawn-36.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-36.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 32352,
+            "dimensions": [
+                570,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/gardener-pruning-trees-with-yellow-secateur-in-the-C58TBQ9"
+        },
+        {
+            "filename": "lawn-40.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/03\/lawn-40.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 16905,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-man-CRF462H"
+        },
+        {
+            "filename": "lawn-39.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/03\/lawn-39-800x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 84439,
+            "dimensions": [
+                1140,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-guy-gardener-in-garden-gloves-puts-the-pots--V24A6CF"
+        },
+        {
+            "filename": "lawn-37.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/03\/lawn-37-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 129909,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-39-s-hands-planting-yellow-flowers-in-the-ga-M6EU987"
+        },
+        {
+            "filename": "lawn-38.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/03\/lawn-38-800x208.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 127723,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-guy-gardener-in-garden-gloves-puts-the-pots--V24A6CF"
+        },
+        {
+            "filename": "logo-01-3.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/logo-01-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 8177,
+            "dimensions": [
+                200,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/logo-01-3.jpg"
+        },
+        {
+            "filename": "lawn-41.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-41.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4725,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/summer-garden-maintenance-7H8AB2Z"
+        },
+        {
+            "filename": "lawn-42.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-42.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 18528,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/seasonal-garden-plants-trimming-by-caucasian-garde-NP4FLQA"
+        },
+        {
+            "filename": "lawn-43.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-43.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 22066,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/guy-and-girl-gardeners-cut-the-rose-bush-in-the-wo-NC47JGT"
+        },
+        {
+            "filename": "lawn-44.jpg",
+            "thumbnail_url": "http:\/\/gnome.welearn2fly.com\/wp-content\/uploads\/2021\/02\/lawn-44.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 18701,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-wearing-ear-and-face-protection-cutting-hedge-LEF9922"
+        }
+    ]
+}

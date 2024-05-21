@@ -1,0 +1,1 @@
+a:1:{s:4:"data";a:3:{i:0;a:4:{s:1:"n";s:22:"CacheClearPeriodically";s:1:"t";i:1716370352;s:2:"tl";i:30;s:1:"a";a:0:{}}i:1;a:4:{s:1:"n";s:20:"CacheNextScheduledOp";s:1:"t";i:1716370352;s:2:"tl";i:7200;s:1:"a";a:1:{s:3:"aId";a:0:{}}}i:2;a:4:{s:1:"n";s:22:"CheckUpdatePostProcess";s:1:"t";i:1716285120;s:2:"tl";i:86400;s:1:"a";a:0:{}}}}

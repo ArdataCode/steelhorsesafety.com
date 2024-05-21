@@ -1,0 +1,40 @@
+[15-Apr-2023 08:30:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Apr-2023 13:18:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-May-2023 07:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jun-2023 18:25:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jun-2023 18:55:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jun-2023 18:56:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jun-2023 18:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jun-2023 19:11:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jun-2023 19:13:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jun-2023 19:15:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/steelhorse/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

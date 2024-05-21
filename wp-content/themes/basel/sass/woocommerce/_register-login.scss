@@ -1,0 +1,296 @@
+
+/** ------------------------------------------
+* WOO LOGIN
+* ------------------------------------------ */
+
+.basel-registration-page {
+	padding-top:40px;
+	padding-bottom: 60px;
+	position: relative;
+	margin-bottom:20px;
+	margin-top:20px;
+
+	h2 {
+		font-size:34px;
+
+		&:before {
+			content: "\e066";
+			font-family: 'simple-line-icons';
+			display:inline-block;
+			font-size: 24px;
+    		margin-right: 10px;
+		}
+	}
+
+	&:after {
+		content:"";
+		position:absolute;
+		top:0px;
+		left:50%;
+		border-right:1px solid rgba(0, 0, 0, 0.1);
+		margin-left:-1px;
+		height:100%;
+	}
+
+	&.basel-no-registration {
+		max-width:540px;
+		margin-left:auto;
+		margin-right:auto;
+		padding-left: 20px;
+    	padding-right: 20px;
+
+		&:after {
+			content:none;
+		}
+	}
+}
+
+.register {
+
+	> p {
+		position: relative;
+	}
+
+	#reg_password {
+
+		&:focus {
+
+			+ .woocommerce-password-strength {
+				
+				+ .woocommerce-password-hint {
+					opacity: 1;
+					visibility: visible;
+				}
+			}
+		}
+	}
+}
+
+.col-register-text,
+.col-register,
+.col-login {
+	padding-left:40px;
+	padding-right:40px;
+}
+
+.col-register {
+
+	h2 {
+
+		&:before {
+			content: "\e005";
+		}
+	}
+}
+
+.col-register-text {
+	text-align:center;
+
+	h2 {
+
+		&:before {
+			content: none;
+		}
+	}
+}
+
+.registration-info {
+	margin-bottom:20px;
+	line-height:1.6;
+}
+
+.basel-register-tabs {
+
+	.col-login {
+		position: relative;
+		left:0;
+		z-index: 1;
+		transition: 0.3s all ease-in-out;
+		-o-transition: 0.3s all ease-in-out;
+		-moz-transition: 0.3s all ease-in-out;
+		-webkit-transition: 0.3s all ease-in-out;
+	}
+
+	.col-register {
+		position: absolute;
+		top:0%;
+		left: -150px;
+		opacity: 0;
+		z-index: 0;
+		visibility: hidden;
+		transition: 0.3s all ease-in-out;
+		-o-transition: 0.3s all ease-in-out;
+		-moz-transition: 0.3s all ease-in-out;
+		-webkit-transition: 0.3s all ease-in-out;
+	}
+}
+
+.active-register {
+
+	.col-login {
+		opacity: 0;
+		z-index: 0;
+		visibility: hidden;
+		left: -150px;
+	}
+
+	.col-register {
+		opacity: 1;
+		z-index: 1;
+		visibility: visible;
+		background-color: white;
+		left: 0;
+	}
+}
+
+.login {
+
+	.lost_password {
+		margin-bottom: -23px;
+		text-align: right;
+
+		> a {
+			display: inline-block;
+			color: #3b3b3b;
+			
+			&:before {
+				content: "\e056";
+				margin-right: 7px;
+				vertical-align: middle;
+				font-family: 'simple-line-icons';
+			}
+
+			&:hover {
+				text-decoration:none;
+				color:$primary-color;
+			}
+		}
+	}
+}
+
+.lost_reset_password {
+	max-width:500px;
+	padding-top:40px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+    padding-right: 20px;
+	margin:0 auto;
+
+	.form-row-first {
+		width:100%;
+		margin-top:20px;
+	}
+
+	.form-row-last {
+		float: none;
+		width: 100%;
+	}
+
+	p {
+
+		&:first-child {
+			font-size:18px;
+			line-height:1.8;
+			display:inline;
+			border-bottom:1px solid #EFEFEF;
+		}
+	}
+}
+
+.register,
+.login,
+.lost_reset_password {
+
+	.button {
+		width:100%;
+		margin-top:10px;
+		border:2px solid black;
+		background-color:transparent;
+		color:black;
+
+		&:hover {
+			background-color:#333333;
+			border-color:#333333;
+			color:white;
+		}
+	}
+
+	> *:last-child {
+		margin-bottom:0px;
+	}
+}
+
+.register-or {
+	font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    margin-bottom: 35px;
+    display: none;
+
+	&:after,
+	&:before {
+	    content: " ";
+	    display: inline-block;
+	    width: 40%;
+	    height: 1px;
+	    background-color: #E2E2E2;
+	    vertical-align: middle;
+	}
+
+	&:after {
+		margin-left:5%;
+	}
+
+	&:before {
+		margin-right:5%;
+	}
+}
+
+.woocommerce-password-hint {
+    position: absolute;
+    bottom: 100%;
+    right: 0;
+    opacity: 0;
+    visibility: hidden;
+    margin-bottom: -10px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    max-width: 300px;
+    width: 100%;
+    transition:opacity 0.5s, visibility 0.5s;
+    -webkit-transition:opacity 0.5s, visibility 0.5s;
+    animation: fade-in 0.5s;
+    -webkit-animation: fade-in 0.5s;
+
+    &:after {
+	    content: "\f0d7";
+	    position: absolute;
+	    top: 100%;
+	    left: 30px;
+	    font-size: 26px;
+	    line-height: 7px;
+	    text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);
+	    color: white;
+	    font-family: "FontAwesome";
+    }
+}
+
+.woocommerce-password-strength {
+	margin-top: 20px;
+	margin-bottom: -10px;
+    padding: 10px 20px;
+
+    &.short,
+    &.bad {
+    	color: #ffffff;
+    	background-color: #E0B252;
+    }
+
+    &.strong,
+    &.good {
+	    color: #ffffff;
+	    font-weight: bold;
+	    background: #459647;
+    }
+}
